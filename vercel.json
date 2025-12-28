@@ -1,0 +1,20 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/check-bot",
+      "destination": "/api/check-bot.js"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow, noarchive, nosnippet"
+        }
+      ]
+    }
+  ]
+}
+
