@@ -25,7 +25,7 @@ export default async function handler(req, res) {
     'w3c_validator', 'css-validator', 'html-validator',
     'feed', 'rss', 'atom', 'syndication',
     'monitoring', 'uptime', 'ping', 'health',
-    'analytics', 'tracking', 'stats'
+    'analytics', 'tracking', 'stats','vercel'
   ]
 
   // Check user agent from request headers (more reliable)
