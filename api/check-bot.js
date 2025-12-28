@@ -12,7 +12,7 @@ export default async function handler(req, res) {
     'bot', 'crawler', 'spider', 'scraper', 'scrape',
     'curl', 'wget', 'python-requests', 'java/', 'perl', 'ruby',
     'go-http-client', 'php', 'node-fetch', 'axios/', 'fetch/',
-    'googlebot', 'bingbot', 'slurp', 'duckduckbot',
+    'googlebot','google', 'bingbot', 'slurp', 'duckduckbot',
     'baiduspider', 'yandexbot', 'sogou', 'exabot',
     'facebot', 'ia_archiver', 'archive.org',
     'semrush', 'ahrefs', 'mj12bot', 'dotbot',
