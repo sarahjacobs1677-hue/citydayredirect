@@ -116,10 +116,7 @@ function App() {
   if (isChecking) {
     return (
       <div className="container">
-        <div className="loading">
-          <div className="spinner"></div>
-          <p>Loading...</p>
-        </div>
+
       </div>
     )
   }
